@@ -5,7 +5,7 @@ This is a doc string.. Not omitted by interpreter
 # Intent is to learn python step by step
 print("Hello World")
 """
-This is a document
+This is a document. This code is pushed to Git
 string
 """
 
